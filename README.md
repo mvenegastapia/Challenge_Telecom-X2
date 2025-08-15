@@ -54,7 +54,7 @@ El proyecto se dividió en dos fases metodológicas:
 
 ## 💡 Hallazgos y Resultados del Modelo
 
-El modelo de **Regresión Logística** demostró ser el más efectivo, alcanzando un **AUC de 0.84** y una capacidad para identificar correctamente al **52% de los clientes que realmente cancelaron (`recall`)**.
+El modelo de **Regresión Logística** demostró ser el más efectivo, alcanzando un **AUC de 0.84** y una capacidad mayor para identificar correctamente a los clientes que realmente cancelaron (`recall`)**.
 
 El análisis de importancia de características, tanto del EDA como de los modelos, reveló de forma consistente los siguientes factores como los más influyentes en el `Churn`:
 
