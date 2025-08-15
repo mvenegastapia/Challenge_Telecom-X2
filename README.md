@@ -59,7 +59,7 @@ El modelo de **Regresión Logística** demostró ser el más efectivo, alcanzand
 El análisis de importancia de características, tanto del EDA como de los modelos, reveló de forma consistente los siguientes factores como los más influyentes en el `Churn`:
 
 1.  **`account_Contract`:** El contrato **mes a mes** es el predictor #1 de abandono.
-2.  **`account_Contract`:** La **baja antigüedad** es el segundo factor más importante.
+2.  **`customer_tenure`:** La **baja antigüedad** es el segundo factor más importante.
 3.  **`internet_InternetService`:** Tener **Fibra Óptica** aumenta significativamente la probabilidad de cancelación.
 4.  **Cargos (`account_Charges...`):** Los cargos mensuales y totales son altamente relevantes.
 5.  **`internet_TechSupport`:** La **ausencia de soporte técnico** es un factor clave, especialmente para clientes con Fibra Óptica.
